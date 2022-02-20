@@ -1,0 +1,1 @@
+# Angular-QR-code-generator
